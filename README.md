@@ -98,7 +98,6 @@ Attention Output = Attention Weights × V
 
 ## Output
 <img width="421" height="680" alt="image" src="https://github.com/user-attachments/assets/f508729e-b7b3-4009-95eb-69e38896b4bf" />
-<img width="427" height="681" alt="image" src="https://github.com/user-attachments/assets/78c5840d-f2ea-4f65-a454-4dcf0ceb6c2b" />
 
 
 
